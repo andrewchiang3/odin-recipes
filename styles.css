@@ -1,0 +1,32 @@
+/* all styles */
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+
+.recipe-description,
+.recipe-head {
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* index styles */
+.head {
+    text-align: center;
+    background-color: beige;
+}
+
+.recipe-list {
+    list-style-position: inside;
+    text-align: center;
+}
+
+.recipe-list a {
+    color: black;
+}
+
